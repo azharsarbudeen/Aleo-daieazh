@@ -1,2 +1,2 @@
 # Aleo-daieazh
-Aleo daieazh app
+Aleo daieazh tiktactoe app
